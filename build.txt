@@ -1,0 +1,3 @@
+displayName = Terraria Map Loop
+author = Anumania
+version = 0.1
